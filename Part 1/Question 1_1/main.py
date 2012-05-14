@@ -12,7 +12,3 @@ network = hopfield.hopfield_network(N)
 network.make_pattern(P)
 
 network.run(0,c)
-
-#test
-
-
